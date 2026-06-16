@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fff4f7"/>
+  <circle cx="210" cy="150" r="140" fill="#ffd4df"/>
+  <circle cx="1040" cy="125" r="160" fill="#ffe5b8"/>
+  <rect x="120" y="140" width="960" height="350" rx="18" fill="#ffffff" opacity="0.78"/>
+  <text x="170" y="285" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#30202a">Your Name</text>
+  <text x="172" y="360" font-family="Arial, sans-serif" font-size="34" fill="#9f486d">Academic Homepage</text>
+  <text x="172" y="420" font-family="Arial, sans-serif" font-size="28" fill="#6f6270">Publications · Projects · CV</text>
+</svg>

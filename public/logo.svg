@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
+  <rect width="240" height="80" rx="18" fill="#fff4f7"/>
+  <circle cx="42" cy="40" r="20" fill="#dd7ea2"/>
+  <text x="76" y="49" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#30202a">Your Name</text>
+</svg>
